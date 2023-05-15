@@ -1,2 +1,2 @@
 # hangman-game
-GUI
+Josh's awsopme hangman game 
